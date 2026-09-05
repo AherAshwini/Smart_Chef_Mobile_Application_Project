@@ -1,0 +1,1 @@
+This project includes source code for 'Smart Chef Mobile Application'.
